@@ -1,13 +1,13 @@
-/* Style the Home button */
-nav a.home-link {
-  background-color: #222;
-  color: #fff !important;
-  padding: 6px 12px;
-  border-radius: 4px;
-  text-decoration: none;
-  margin-right: 12px;
+---
+---
+
+@import "minima";
+
+/* Custom nav styles */
+nav {
+  background-color: #111;
 }
 
-nav a.home-link:hover {
-  background-color: #444;
+nav a {
+  color: #4DA8DA;
 }
