@@ -1,18 +1,10 @@
-title: Alireza Baghbanferdows
-email: alirezabaghban@gmail.com
-description: >- 
-  Ph.D. student in Economics | Health, Labor, Development Economics
-baseurl: "" # important to leave empty
+title: "Alireza Baghbanferdows"
+email: "alirezabaghban@gmail.com"
+description: "Ph.D. student in Economics | Health, Labor, Development Economics"
+baseurl: "" # DO NOT change this
 url: "https://abaghbanferdows.github.io"
-
 theme: minima
 
+markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
-defaults:
-  - scope:
-      path: ""
-    values:
-      head: head
-theme: minima
