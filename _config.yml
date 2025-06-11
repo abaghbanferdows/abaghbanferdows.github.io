@@ -15,3 +15,4 @@ defaults:
       path: ""
     values:
       head: head
+theme: minima
