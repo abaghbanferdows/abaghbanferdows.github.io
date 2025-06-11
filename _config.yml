@@ -1,0 +1,12 @@
+title: Alireza Baghbanferdows
+email: alirezabaghban@gmail.com
+description: >- 
+  Ph.D. student in Economics | Health, Labor, Development Economics
+baseurl: "" # important to leave empty
+url: "https://abaghbanferdows.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
